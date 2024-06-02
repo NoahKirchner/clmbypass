@@ -1,0 +1,11 @@
+C:/Users/Administrator/Source/Repos/clmbypass/bin/Debug/clmbypass.exe.config
+C:/Users/Administrator/Source/Repos/clmbypass/bin/Debug/clmbypass.exe
+C:/Users/Administrator/Source/Repos/clmbypass/bin/Debug/clmbypass.pdb
+C:/Users/Administrator/Source/Repos/clmbypass/bin/Debug/System.Management.Automation.dll
+C:/Users/Administrator/Source/Repos/clmbypass/obj/Debug/clmbypass.csprojAssemblyReference.cache
+C:/Users/Administrator/Source/Repos/clmbypass/obj/Debug/clmbypass.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Source/Repos/clmbypass/obj/Debug/clmbypass.csproj.CopyComplete
+C:/Users/Administrator/Source/Repos/clmbypass/obj/Debug/clmbypass.exe
+C:/Users/Administrator/Source/Repos/clmbypass/obj/Debug/clmbypass.pdb
+/home/noah/Programming/dotnet/clmbypass/obj/Debug/clmbypass.exe
+/home/noah/Programming/dotnet/clmbypass/obj/Debug/clmbypass.pdb
